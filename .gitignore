@@ -1,2 +1,3 @@
-Dataset_BUSI_with_GT/benign
+/Dataset_BUSI_with_GT/*
+!/Dataset_BUSI_with_GT/.gitkeep
 /DeepLabV3-Plus.h5
